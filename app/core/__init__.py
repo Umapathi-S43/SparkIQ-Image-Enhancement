@@ -1,0 +1,1 @@
+# Core package for SparkIQ AI Image Enhancement 

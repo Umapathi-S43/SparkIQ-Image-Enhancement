@@ -1,0 +1,583 @@
+2025-07-19 21:20:01,897 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 21:20:01,897 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 21:20:01,897 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 21:20:01,897 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 21:21:46,601 - app.main - INFO - Request processed in 0.0013 seconds
+2025-07-19 21:21:46,715 - app.main - INFO - Request processed in 0.0094 seconds
+2025-07-19 21:22:39,977 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:22:39,978 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:22:40,709 - app.services.background_removal_service - INFO - ✅ Downloaded image: (1775, 2048) pixels
+2025-07-19 21:22:40,710 - app.services.background_removal_service - INFO - 🔄 Processing background removal (mock)...
+2025-07-19 21:22:41,254 - app.services.background_removal_service - INFO - ✅ Background removal completed (mock)
+2025-07-19 21:22:42,216 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 21:22:42,242 - app.main - INFO - Request processed in 2.2698 seconds
+2025-07-19 21:25:29,571 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 21:25:30,199 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 21:25:30,200 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 21:25:30,200 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 21:25:30,200 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 21:25:31,817 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 21:25:32,245 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 21:25:32,245 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 21:25:32,245 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 21:25:32,245 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 21:25:52,878 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:25:52,878 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:25:53,532 - app.services.background_removal_service - INFO - ✅ Downloaded image: (1775, 2048) pixels
+2025-07-19 21:25:53,533 - app.services.background_removal_service - INFO - 🔄 Processing background removal (mock)...
+2025-07-19 21:25:54,086 - app.services.background_removal_service - INFO - ✅ Background removal completed (mock)
+2025-07-19 21:25:54,900 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 21:25:54,907 - app.main - INFO - Request processed in 2.0310 seconds
+2025-07-19 21:26:09,626 - app.main - INFO - Request processed in 0.0016 seconds
+2025-07-19 21:26:10,753 - app.main - INFO - Request processed in 0.0119 seconds
+2025-07-19 21:26:31,388 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:26:31,389 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:26:31,754 - app.services.background_removal_service - INFO - ✅ Downloaded image: (1775, 2048) pixels
+2025-07-19 21:26:31,756 - app.services.background_removal_service - INFO - 🔄 Processing background removal (mock)...
+2025-07-19 21:26:32,306 - app.services.background_removal_service - INFO - ✅ Background removal completed (mock)
+2025-07-19 21:26:32,964 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 21:26:32,972 - app.main - INFO - Request processed in 1.5853 seconds
+2025-07-19 21:28:10,454 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 21:28:10,983 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 21:28:10,983 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 21:28:10,983 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 21:28:10,983 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 21:28:25,439 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 21:28:25,942 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 21:28:25,942 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 21:28:25,942 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 21:28:25,942 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 21:28:38,994 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 21:28:39,579 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 21:28:39,579 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 21:28:39,579 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 21:28:39,579 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 21:28:40,993 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 21:28:41,427 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 21:28:41,427 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 21:28:41,427 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 21:28:41,427 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 21:28:57,206 - app.main - INFO - Request processed in 0.0011 seconds
+2025-07-19 21:28:57,839 - app.main - INFO - Request processed in 0.0097 seconds
+2025-07-19 21:29:32,105 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:29:32,107 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:29:32,730 - app.services.background_removal_service - INFO - ✅ Downloaded image: (1775, 2048) pixels
+2025-07-19 21:29:32,731 - app.services.background_removal_service - INFO - 🔄 Processing background removal (mock)...
+2025-07-19 21:29:33,279 - app.services.background_removal_service - INFO - ✅ Background removal completed (mock)
+2025-07-19 21:29:33,929 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_16d262bb.png
+2025-07-19 21:29:33,930 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 21:29:33,930 - app.main - INFO - Request processed in 1.8282 seconds
+2025-07-19 21:32:17,576 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 21:34:08,426 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 21:34:08,426 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 21:34:08,426 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 21:34:08,426 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 21:34:08,431 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:34:08,431 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:34:08,846 - app.services.background_removal_service - INFO - ✅ Downloaded image: (1775, 2048) pixels
+2025-07-19 21:34:08,847 - app.services.background_removal_service - INFO - 🔄 Removing background using advanced AI techniques...
+2025-07-19 21:34:18,570 - app.services.background_removal_service - INFO - ✅ Background removed successfully using advanced techniques
+2025-07-19 21:34:19,223 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_aec3dc03.png
+2025-07-19 21:34:19,224 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 21:34:19,225 - app.main - INFO - Request processed in 10.7951 seconds
+2025-07-19 21:34:28,175 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:34:28,175 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:34:28,705 - app.services.background_removal_service - INFO - ✅ Downloaded image: (1775, 2048) pixels
+2025-07-19 21:34:28,706 - app.services.background_removal_service - INFO - 🔄 Removing background using advanced AI techniques...
+2025-07-19 21:34:36,191 - app.services.background_removal_service - INFO - ✅ Background removed successfully using advanced techniques
+2025-07-19 21:34:36,946 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_05afa4df.png
+2025-07-19 21:34:36,947 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 21:34:36,948 - app.main - INFO - Request processed in 8.7749 seconds
+2025-07-19 21:34:57,874 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 21:34:58,638 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 21:34:58,638 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 21:34:58,638 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 21:34:58,638 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 21:35:00,257 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 21:35:00,810 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 21:35:00,810 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 21:35:00,810 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 21:35:00,811 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 21:37:11,077 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 21:49:45,609 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 21:49:45,609 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 21:49:45,609 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 21:49:45,609 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 21:49:46,432 - app.main - INFO - Request processed in 0.0003 seconds
+2025-07-19 21:49:51,632 - app.api.v1.endpoints.hello - INFO - Hello endpoint called
+2025-07-19 21:49:51,632 - app.api.v1.endpoints.hello - INFO - Hello endpoint response generated successfully
+2025-07-19 21:49:51,632 - app.main - INFO - Request processed in 0.0005 seconds
+2025-07-19 21:50:04,466 - app.main - INFO - Request processed in 0.0002 seconds
+2025-07-19 21:50:12,513 - app.main - INFO - Request processed in 0.0013 seconds
+2025-07-19 21:51:02,716 - app.main - INFO - Request processed in 0.0010 seconds
+2025-07-19 21:52:55,261 - app.main - INFO - Request processed in 0.0025 seconds
+2025-07-19 21:52:55,397 - app.main - INFO - Request processed in 0.0136 seconds
+2025-07-19 21:53:13,812 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:53:13,813 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 21:53:14,412 - app.services.background_removal_service - INFO - ✅ Downloaded image: (1775, 2048) pixels
+2025-07-19 21:53:14,413 - app.services.background_removal_service - INFO - 🔄 Removing background using AI (CPU)...
+2025-07-19 21:53:16,144 - app.services.background_removal_service - INFO - ✅ Background removed successfully using AI (CPU)
+2025-07-19 21:53:16,824 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_0de54c53.png
+2025-07-19 21:53:16,825 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 21:53:16,826 - app.main - INFO - Request processed in 3.0173 seconds
+2025-07-19 22:10:28,023 - app.main - INFO - Request processed in 0.0036 seconds
+2025-07-19 22:10:40,947 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:10:40,948 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:10:41,285 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels
+2025-07-19 22:10:41,286 - app.services.background_removal_service - INFO - 🔄 Removing background using AI (CPU)...
+2025-07-19 22:10:42,273 - app.services.background_removal_service - INFO - ✅ Background removed successfully using AI (CPU)
+2025-07-19 22:10:42,344 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_ebb066c4.png
+2025-07-19 22:10:42,344 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:10:42,344 - app.main - INFO - Request processed in 1.4046 seconds
+2025-07-19 22:11:19,507 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400
+2025-07-19 22:11:19,507 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400
+2025-07-19 22:11:19,707 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 267) pixels
+2025-07-19 22:11:19,708 - app.services.background_removal_service - INFO - 🔄 Removing background using AI (CPU)...
+2025-07-19 22:11:20,159 - app.services.background_removal_service - INFO - ✅ Background removed successfully using AI (CPU)
+2025-07-19 22:11:20,181 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_f913eaed.png
+2025-07-19 22:11:20,181 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:11:20,181 - app.main - INFO - Request processed in 0.6760 seconds
+2025-07-19 22:11:57,971 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 22:14:10,371 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 22:14:10,371 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 22:14:10,371 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 22:14:10,371 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 22:14:10,377 - app.api.v1.endpoints.background_removal - INFO - 🔍 Service status requested
+2025-07-19 22:14:10,378 - app.main - INFO - Request processed in 0.0013 seconds
+2025-07-19 22:14:10,384 - app.api.v1.endpoints.background_removal - INFO - 🔍 Background removal health check
+2025-07-19 22:14:10,393 - app.api.v1.endpoints.background_removal - INFO - 📋 Available models: ['birefnet-general', 'u2net', 'u2netp', 'u2net_human_seg', 'u2net_cloth_seg']
+2025-07-19 22:14:10,394 - app.main - INFO - Request processed in 0.0006 seconds
+2025-07-19 22:14:10,397 - app.main - INFO - Request processed in 0.0010 seconds
+2025-07-19 22:14:10,401 - app.api.v1.endpoints.background_removal - INFO - 📋 Available models: ['birefnet-general', 'u2net', 'u2netp', 'u2net_human_seg', 'u2net_cloth_seg']
+2025-07-19 22:14:10,401 - app.main - INFO - Request processed in 0.0005 seconds
+2025-07-19 22:14:10,405 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:14:10,406 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=True, cache=True
+2025-07-19 22:14:10,406 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:14:10,834 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 22:14:10,836 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 22:14:11,481 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU) in 0.65s
+2025-07-19 22:14:11,553 - app.services.background_removal_service - INFO - 💾 Cached result for a7c2e0ac08b4342353ed8ea8894e96c9
+2025-07-19 22:14:11,993 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_e195f505.png
+2025-07-19 22:14:11,993 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:14:11,994 - app.main - INFO - Request processed in 1.5898 seconds
+2025-07-19 22:14:13,005 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:14:13,005 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=u2net, enhance=True, cache=True
+2025-07-19 22:14:13,006 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:14:13,184 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 22:14:13,185 - app.services.background_removal_service - INFO - 🔄 Removing background using u2net (GPU accelerated)...
+2025-07-19 22:14:13,670 - app.services.background_removal_service - INFO - ✅ Background removed successfully using u2net (GPU) in 0.48s
+2025-07-19 22:14:13,744 - app.services.background_removal_service - INFO - 💾 Cached result for 4eaa6f5ec4a703d9eb0f54959e6ff2d3
+2025-07-19 22:14:14,096 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_8e31a316.png
+2025-07-19 22:14:14,096 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:14:14,098 - app.main - INFO - Request processed in 1.0934 seconds
+2025-07-19 22:14:15,107 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:14:15,107 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=u2netp, enhance=True, cache=True
+2025-07-19 22:14:15,109 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:14:15,279 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 22:14:15,281 - app.services.background_removal_service - INFO - 🔄 Removing background using u2netp (GPU accelerated)...
+2025-07-19 22:14:15,714 - app.services.background_removal_service - INFO - ✅ Background removed successfully using u2netp (GPU) in 0.43s
+2025-07-19 22:14:15,808 - app.services.background_removal_service - INFO - 💾 Cached result for 9edd9d0cb038e4325b584bbec58f4975
+2025-07-19 22:14:16,255 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_a6916f24.png
+2025-07-19 22:14:16,255 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:14:16,256 - app.main - INFO - Request processed in 1.1495 seconds
+2025-07-19 22:14:17,266 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400
+2025-07-19 22:14:17,266 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=True, cache=True
+2025-07-19 22:14:17,266 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400
+2025-07-19 22:14:17,436 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 267) pixels, 17868 bytes
+2025-07-19 22:14:17,437 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 22:14:17,938 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU) in 0.50s
+2025-07-19 22:14:17,962 - app.services.background_removal_service - INFO - 💾 Cached result for 6c2f3c311fa153dca7294cb8c6250647
+2025-07-19 22:14:18,036 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_3e87b748.png
+2025-07-19 22:14:18,036 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:14:18,037 - app.main - INFO - Request processed in 0.7710 seconds
+2025-07-19 22:14:18,041 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400
+2025-07-19 22:14:18,041 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=True, cache=True
+2025-07-19 22:14:18,042 - app.services.background_removal_service - INFO - 📋 Using cached result for 6c2f3c311fa153dca7294cb8c6250647
+2025-07-19 22:14:18,117 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_38a80146.png
+2025-07-19 22:14:18,117 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:14:18,117 - app.main - INFO - Request processed in 0.0766 seconds
+2025-07-19 22:14:18,122 - app.main - INFO - Request processed in 0.0005 seconds
+2025-07-19 22:14:18,125 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400
+2025-07-19 22:14:18,125 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=False, cache=True
+2025-07-19 22:14:18,125 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400
+2025-07-19 22:14:18,336 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 599) pixels, 44999 bytes
+2025-07-19 22:14:18,337 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 22:14:18,718 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU) in 0.38s
+2025-07-19 22:14:18,796 - app.services.background_removal_service - INFO - 💾 Cached result for bbc6477beca1f11b9bd8142892856437
+2025-07-19 22:14:19,105 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_b281a8df.png
+2025-07-19 22:14:19,105 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:14:19,105 - app.main - INFO - Request processed in 0.9807 seconds
+2025-07-19 22:14:19,109 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400
+2025-07-19 22:14:19,109 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=True, cache=True
+2025-07-19 22:14:19,109 - app.services.background_removal_service - INFO - 📋 Using cached result for bbc6477beca1f11b9bd8142892856437
+2025-07-19 22:14:19,420 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_9d9540f1.png
+2025-07-19 22:14:19,420 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:14:19,421 - app.main - INFO - Request processed in 0.3117 seconds
+2025-07-19 22:14:19,425 - app.api.v1.endpoints.background_removal - INFO - 🗑️ Cache cleared successfully
+2025-07-19 22:14:19,426 - app.main - INFO - Request processed in 0.0014 seconds
+2025-07-19 22:14:19,429 - app.main - INFO - Request processed in 0.0004 seconds
+2025-07-19 22:14:30,461 - app.api.v1.endpoints.background_removal - INFO - 🔍 Service status requested
+2025-07-19 22:14:30,462 - app.main - INFO - Request processed in 0.0009 seconds
+2025-07-19 22:19:15,509 - app.api.v1.endpoints.background_removal - INFO - 🔍 Service status requested
+2025-07-19 22:19:15,510 - app.main - INFO - Request processed in 0.0026 seconds
+2025-07-19 22:19:20,910 - app.api.v1.endpoints.background_removal - INFO - 🔍 Background removal health check
+2025-07-19 22:19:25,587 - app.api.v1.endpoints.background_removal - INFO - 🔍 Background removal health check
+2025-07-19 22:20:18,553 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 22:20:59,481 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 22:20:59,481 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 22:20:59,482 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 22:20:59,482 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 22:23:24,776 - app.api.v1.endpoints.hello - INFO - Hello endpoint called
+2025-07-19 22:23:24,777 - app.api.v1.endpoints.hello - INFO - Hello endpoint response generated successfully
+2025-07-19 22:23:24,778 - app.main - INFO - Request processed in 0.0033 seconds
+2025-07-19 22:23:24,782 - app.api.v1.endpoints.hello - INFO - Health check endpoint called
+2025-07-19 22:23:24,783 - app.main - INFO - Request processed in 0.0007 seconds
+2025-07-19 22:23:24,787 - app.api.v1.endpoints.background_removal - INFO - 🔍 Service status requested
+2025-07-19 22:23:24,787 - app.main - INFO - Request processed in 0.0012 seconds
+2025-07-19 22:23:24,791 - app.api.v1.endpoints.background_removal - INFO - 🔍 Background removal health check
+2025-07-19 22:23:24,803 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:24,803 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=True, cache=True
+2025-07-19 22:23:24,803 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:25,077 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 22:23:25,078 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 22:23:25,995 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU) in 0.92s
+2025-07-19 22:23:26,067 - app.services.background_removal_service - INFO - 💾 Cached result for a7c2e0ac08b4342353ed8ea8894e96c9
+2025-07-19 22:23:26,412 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_34042a52.png
+2025-07-19 22:23:26,412 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:23:26,412 - app.main - INFO - Request processed in 1.6113 seconds
+2025-07-19 22:23:26,416 - app.api.v1.endpoints.background_removal - INFO - 📋 Available models: ['birefnet-general', 'u2net', 'u2netp', 'u2net_human_seg', 'u2net_cloth_seg']
+2025-07-19 22:23:26,416 - app.main - INFO - Request processed in 0.0003 seconds
+2025-07-19 22:23:26,418 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:26,418 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=False, cache=False
+2025-07-19 22:23:26,419 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:26,589 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 22:23:26,590 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 22:23:27,096 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU) in 0.51s
+2025-07-19 22:23:27,447 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_a1b87046.png
+2025-07-19 22:23:27,447 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:23:27,448 - app.main - INFO - Request processed in 1.0299 seconds
+2025-07-19 22:23:27,451 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:27,451 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=u2net, enhance=False, cache=False
+2025-07-19 22:23:27,451 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:27,625 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 22:23:27,626 - app.services.background_removal_service - INFO - 🔄 Removing background using u2net (GPU accelerated)...
+2025-07-19 22:23:28,106 - app.services.background_removal_service - INFO - ✅ Background removed successfully using u2net (GPU) in 0.48s
+2025-07-19 22:23:28,455 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_f005127f.png
+2025-07-19 22:23:28,455 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:23:28,456 - app.main - INFO - Request processed in 1.0057 seconds
+2025-07-19 22:23:28,461 - app.main - INFO - Request processed in 0.0007 seconds
+2025-07-19 22:23:28,464 - app.api.v1.endpoints.background_removal - INFO - 🗑️ Cache cleared successfully
+2025-07-19 22:23:28,465 - app.main - INFO - Request processed in 0.0011 seconds
+2025-07-19 22:23:28,557 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://invalid-url-that-does-not-exist.com/image.jpg
+2025-07-19 22:23:28,557 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=True, cache=True
+2025-07-19 22:23:28,558 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://invalid-url-that-does-not-exist.com/image.jpg
+2025-07-19 22:23:30,244 - app.services.background_removal_service - ERROR - ❌ Network error downloading image from https://invalid-url-that-does-not-exist.com/image.jpg: 404 Client Error: Not Found for url: https://invalid-url-that-does-not-exist.com/image.jpg
+2025-07-19 22:23:30,245 - app.api.v1.endpoints.background_removal - ERROR - ❌ Background removal failed: Failed to download image from URL
+2025-07-19 22:23:30,246 - app.main - INFO - Request processed in 1.6897 seconds
+2025-07-19 22:23:30,252 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:30,252 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=invalid-model-name, enhance=True, cache=True
+2025-07-19 22:23:30,252 - app.api.v1.endpoints.background_removal - WARNING - ⚠️ Invalid model invalid-model-name, using birefnet-general
+2025-07-19 22:23:30,252 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:30,470 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 22:23:30,471 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 22:23:30,897 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU) in 0.43s
+2025-07-19 22:23:30,972 - app.services.background_removal_service - INFO - 💾 Cached result for a7c2e0ac08b4342353ed8ea8894e96c9
+2025-07-19 22:23:31,335 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_d0c4faee.png
+2025-07-19 22:23:31,335 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:23:31,336 - app.main - INFO - Request processed in 1.0850 seconds
+2025-07-19 22:23:31,342 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:31,343 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=False, cache=True
+2025-07-19 22:23:31,343 - app.services.background_removal_service - INFO - 📋 Using cached result for a7c2e0ac08b4342353ed8ea8894e96c9
+2025-07-19 22:23:31,701 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_3d4f9dde.png
+2025-07-19 22:23:31,701 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:23:31,702 - app.main - INFO - Request processed in 0.3606 seconds
+2025-07-19 22:23:31,702 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:31,702 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=False, cache=True
+2025-07-19 22:23:31,702 - app.services.background_removal_service - INFO - 📋 Using cached result for a7c2e0ac08b4342353ed8ea8894e96c9
+2025-07-19 22:23:32,076 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_e2063318.png
+2025-07-19 22:23:32,076 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:23:32,077 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:32,077 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=False, cache=True
+2025-07-19 22:23:32,077 - app.services.background_removal_service - INFO - 📋 Using cached result for a7c2e0ac08b4342353ed8ea8894e96c9
+2025-07-19 22:23:32,430 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_71158052.png
+2025-07-19 22:23:32,430 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:23:32,431 - app.main - INFO - Request processed in 1.0891 seconds
+2025-07-19 22:23:32,431 - app.main - INFO - Request processed in 0.7296 seconds
+2025-07-19 22:23:32,435 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:32,435 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=True, cache=False
+2025-07-19 22:23:32,435 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 22:23:32,619 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 22:23:32,621 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 22:23:33,162 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU) in 0.54s
+2025-07-19 22:23:33,513 - app.services.background_removal_service - INFO - 💾 Image saved locally: processed_images/bg_removed_image_ac54152b.png
+2025-07-19 22:23:33,514 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:23:33,515 - app.main - INFO - Request processed in 1.0804 seconds
+2025-07-19 22:23:39,086 - app.api.v1.endpoints.background_removal - INFO - 🔍 Background removal health check
+2025-07-19 22:24:00,910 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 22:24:42,564 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 22:24:42,564 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 22:24:42,564 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 22:24:42,564 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 22:24:42,568 - app.api.v1.endpoints.background_removal - INFO - 🔍 Background removal health check
+2025-07-19 22:26:50,073 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 22:34:25,729 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 22:34:25,731 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 22:34:25,731 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 22:34:25,732 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 22:34:25,732 - app.main - INFO - ☁️ S3 Storage: Enabled with bucket 'sparkiq-image-upload'
+2025-07-19 22:35:24,734 - app.main - INFO - Request processed in 0.0012 seconds
+2025-07-19 22:35:25,401 - app.main - INFO - Request processed in 0.0210 seconds
+2025-07-19 22:36:01,474 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 22:36:01,474 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=True, cache=True
+2025-07-19 22:36:01,475 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 22:36:02,041 - app.services.background_removal_service - INFO - ✅ Downloaded image: (1775, 2048) pixels, 223282 bytes
+2025-07-19 22:36:02,043 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 22:36:05,002 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU) in 2.96s
+2025-07-19 22:36:05,727 - app.services.background_removal_service - INFO - 💾 Cached result for d3a96c049443b984d72d0e43da94e094
+2025-07-19 22:36:05,727 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 22:36:08,000 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_5644d356.png
+2025-07-19 22:36:18,890 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_5644d356.png
+2025-07-19 22:36:18,891 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_5644d356.png
+2025-07-19 22:36:18,894 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:36:18,899 - app.main - INFO - Request processed in 17.4295 seconds
+2025-07-19 22:40:31,699 - app.main - INFO - Request processed in 0.0029 seconds
+2025-07-19 22:40:31,831 - app.main - INFO - Request processed in 0.0010 seconds
+2025-07-19 22:42:44,127 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://15buttons.in/cdn/shop/files/IMG_20240606_115219_fb4fdea1-99b1-44eb-b2e9-16cf15277a74_2048x2048.jpg?v=1720450153
+2025-07-19 22:42:44,128 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=True, cache=True
+2025-07-19 22:42:44,131 - app.services.background_removal_service - INFO - 📋 Using cached result for d3a96c049443b984d72d0e43da94e094
+2025-07-19 22:42:44,131 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 22:42:47,328 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_ea1a545d.png
+2025-07-19 22:42:50,548 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_ea1a545d.png
+2025-07-19 22:42:50,549 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_ea1a545d.png
+2025-07-19 22:42:50,551 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 22:42:50,553 - app.main - INFO - Request processed in 6.4323 seconds
+2025-07-19 23:01:45,160 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://cdn.shopify.com/s/files/1/0570/7389/3509/t/1/assets/03-04-2025-034240-badforncar_photo1.png
+2025-07-19 23:01:45,161 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, enhance=True, cache=True
+2025-07-19 23:01:45,162 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://cdn.shopify.com/s/files/1/0570/7389/3509/t/1/assets/03-04-2025-034240-badforncar_photo1.png
+2025-07-19 23:01:45,531 - app.services.background_removal_service - INFO - ✅ Downloaded image: (750, 750) pixels, 104132 bytes
+2025-07-19 23:01:45,533 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 23:01:47,006 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU) in 1.47s
+2025-07-19 23:01:47,093 - app.services.background_removal_service - INFO - 💾 Cached result for 39e6278c2f849f693f983850c457b2cc
+2025-07-19 23:01:47,093 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:01:47,284 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_bd5e6de6.png
+2025-07-19 23:01:52,215 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_bd5e6de6.png
+2025-07-19 23:01:52,216 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_bd5e6de6.png
+2025-07-19 23:01:52,216 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:01:52,220 - app.main - INFO - Request processed in 7.0693 seconds
+2025-07-19 23:08:43,409 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 23:19:33,434 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 23:19:33,435 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 23:19:33,435 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 23:19:33,435 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 23:19:33,435 - app.main - INFO - ☁️ S3 Storage: Enabled with bucket 'sparkiq-image-upload'
+2025-07-19 23:20:48,899 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
+2025-07-19 23:22:46,365 - app.main - INFO - 🚀 Starting up SparkIQ AI Image Enhancement API...
+2025-07-19 23:22:46,366 - app.main - INFO - 📖 API Documentation: http://localhost:8000/docs
+2025-07-19 23:22:46,366 - app.main - INFO - 👋 Hello Endpoint: http://localhost:8000/api/v1/hello
+2025-07-19 23:22:46,366 - app.main - INFO - 🎨 Background Removal: http://localhost:8000/api/v1/ai/remove-background
+2025-07-19 23:22:46,366 - app.main - INFO - ☁️ S3 Storage: Enabled with bucket 'sparkiq-image-upload'
+2025-07-19 23:23:08,834 - app.api.v1.endpoints.background_removal - INFO - 🔍 Service status requested
+2025-07-19 23:23:08,835 - app.main - INFO - Request processed in 0.8358 seconds
+2025-07-19 23:23:08,840 - app.api.v1.endpoints.background_removal - INFO - 📋 Available methods: ['standard', 'rembg', 'mediapipe', 'ensemble']
+2025-07-19 23:23:08,841 - app.main - INFO - Request processed in 0.0005 seconds
+2025-07-19 23:23:08,843 - app.api.v1.endpoints.background_removal - INFO - 📋 Available methods: ['standard', 'rembg', 'mediapipe', 'ensemble']
+2025-07-19 23:23:08,844 - app.main - INFO - Request processed in 0.0003 seconds
+2025-07-19 23:23:08,849 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:23:08,849 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, method=ensemble, quality=fast, enhance=True, cache=False
+2025-07-19 23:23:08,849 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:23:09,115 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 23:23:09,122 - app.services.background_removal_service - INFO - 🎯 Using ensemble method with quality level: fast
+2025-07-19 23:23:10,055 - app.services.advanced_background_removal - ERROR - ❌ Error applying mask: images do not match
+2025-07-19 23:23:10,056 - app.services.background_removal_service - INFO - ✅ Background removal completed in 0.94s using ensemble
+2025-07-19 23:23:10,056 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:23:10,624 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_4d140b94.png
+2025-07-19 23:23:15,930 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_4d140b94.png
+2025-07-19 23:23:15,931 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_4d140b94.png
+2025-07-19 23:23:15,931 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:23:15,932 - app.main - INFO - Request processed in 7.0852 seconds
+2025-07-19 23:23:16,868 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:23:16,869 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, method=ensemble, quality=high, enhance=True, cache=False
+2025-07-19 23:23:16,869 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:23:17,072 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 23:23:17,080 - app.services.background_removal_service - INFO - 🎯 Using ensemble method with quality level: high
+2025-07-19 23:23:17,939 - app.services.advanced_background_removal - ERROR - ❌ Error applying mask: images do not match
+2025-07-19 23:23:17,939 - app.services.background_removal_service - INFO - ✅ Background removal completed in 0.87s using ensemble
+2025-07-19 23:23:17,939 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:23:18,503 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_7db7fee1.png
+2025-07-19 23:23:19,785 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_7db7fee1.png
+2025-07-19 23:23:19,785 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_7db7fee1.png
+2025-07-19 23:23:19,785 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:23:19,786 - app.main - INFO - Request processed in 2.9182 seconds
+2025-07-19 23:23:20,980 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:23:20,980 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, method=ensemble, quality=ultra, enhance=True, cache=False
+2025-07-19 23:23:20,980 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:23:21,189 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 23:23:21,196 - app.services.background_removal_service - INFO - 🎯 Using ensemble method with quality level: ultra
+2025-07-19 23:23:21,590 - app.services.advanced_background_removal - ERROR - ❌ Error applying mask: images do not match
+2025-07-19 23:23:21,590 - app.services.background_removal_service - INFO - ✅ Background removal completed in 0.40s using ensemble
+2025-07-19 23:23:21,590 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:23:22,157 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_06766785.png
+2025-07-19 23:23:23,030 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_06766785.png
+2025-07-19 23:23:23,030 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_06766785.png
+2025-07-19 23:23:23,030 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:23:23,031 - app.main - INFO - Request processed in 2.0530 seconds
+2025-07-19 23:23:23,853 - app.api.v1.endpoints.background_removal - INFO - 📋 Available methods: ['standard', 'rembg', 'mediapipe', 'ensemble']
+2025-07-19 23:23:23,853 - app.main - INFO - Request processed in 0.0004 seconds
+2025-07-19 23:23:23,857 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:23:23,857 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, method=standard, quality=high, enhance=True, cache=False
+2025-07-19 23:23:23,857 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:23:24,043 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 23:23:24,049 - app.services.background_removal_service - INFO - 🔄 Using standard rembg method with birefnet-general
+2025-07-19 23:23:24,049 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 23:23:25,453 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU)
+2025-07-19 23:23:25,454 - app.services.background_removal_service - INFO - ✅ Background removal completed in 1.41s using standard
+2025-07-19 23:23:25,454 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:23:25,810 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_7acdd5ff.png
+2025-07-19 23:23:26,435 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_7acdd5ff.png
+2025-07-19 23:23:26,435 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_7acdd5ff.png
+2025-07-19 23:23:26,435 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:23:26,436 - app.main - INFO - Request processed in 2.5799 seconds
+2025-07-19 23:23:27,294 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:23:27,294 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, method=rembg, quality=high, enhance=True, cache=False
+2025-07-19 23:23:27,294 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:23:27,489 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 23:23:27,496 - app.services.background_removal_service - WARNING - ⚠️ Method rembg not available, falling back to standard
+2025-07-19 23:23:27,496 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 23:23:28,051 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU)
+2025-07-19 23:23:28,051 - app.services.background_removal_service - INFO - ✅ Background removal completed in 0.56s using rembg
+2025-07-19 23:23:28,051 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:23:28,404 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_a915f450.png
+2025-07-19 23:23:29,036 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_a915f450.png
+2025-07-19 23:23:29,036 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_a915f450.png
+2025-07-19 23:23:29,036 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:23:29,037 - app.main - INFO - Request processed in 1.7440 seconds
+2025-07-19 23:23:29,979 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:23:29,979 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, method=mediapipe, quality=high, enhance=True, cache=False
+2025-07-19 23:23:29,979 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:23:30,180 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 23:23:30,188 - app.services.background_removal_service - INFO - 🎯 Using mediapipe method with quality level: high
+2025-07-19 23:23:30,202 - app.services.advanced_background_removal - ERROR - ❌ Error applying mask: images do not match
+2025-07-19 23:23:30,203 - app.services.advanced_background_removal - INFO - ✅ Advanced background removal completed in 0.01s using mediapipe
+2025-07-19 23:23:30,203 - app.services.background_removal_service - INFO - ✅ Background removal completed in 0.02s using mediapipe
+2025-07-19 23:23:30,203 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:23:30,765 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_59cfa9cc.png
+2025-07-19 23:24:21,464 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_59cfa9cc.png
+2025-07-19 23:24:21,466 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_59cfa9cc.png
+2025-07-19 23:24:21,468 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:24:21,471 - app.main - INFO - Request processed in 51.4933 seconds
+2025-07-19 23:24:22,316 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:24:22,317 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, method=ensemble, quality=high, enhance=True, cache=False
+2025-07-19 23:24:22,317 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:24:22,541 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 23:24:22,546 - app.services.background_removal_service - INFO - 🎯 Using ensemble method with quality level: high
+2025-07-19 23:24:23,460 - app.services.advanced_background_removal - ERROR - ❌ Error applying mask: images do not match
+2025-07-19 23:24:23,460 - app.services.background_removal_service - INFO - ✅ Background removal completed in 0.92s using ensemble
+2025-07-19 23:24:23,460 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:24:24,023 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_a23abc32.png
+2025-07-19 23:25:14,965 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_a23abc32.png
+2025-07-19 23:25:14,967 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_a23abc32.png
+2025-07-19 23:25:14,968 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:25:14,969 - app.main - INFO - Request processed in 52.6542 seconds
+2025-07-19 23:25:15,884 - app.api.v1.endpoints.background_removal - INFO - 📋 Available methods: ['standard', 'rembg', 'mediapipe', 'ensemble']
+2025-07-19 23:25:15,885 - app.main - INFO - Request processed in 0.0014 seconds
+2025-07-19 23:25:15,891 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400
+2025-07-19 23:25:15,891 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, method=ensemble, quality=ultra, enhance=True, cache=False
+2025-07-19 23:25:15,891 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400
+2025-07-19 23:25:16,082 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 286) pixels, 34209 bytes
+2025-07-19 23:25:16,086 - app.services.background_removal_service - INFO - 🎯 Using ensemble method with quality level: ultra
+2025-07-19 23:25:16,996 - app.services.advanced_background_removal - ERROR - ❌ Error applying mask: images do not match
+2025-07-19 23:25:16,996 - app.services.background_removal_service - INFO - ✅ Background removal completed in 0.91s using ensemble
+2025-07-19 23:25:16,996 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:25:17,075 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_72370073.png
+2025-07-19 23:25:50,648 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_72370073.png
+2025-07-19 23:25:50,649 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_72370073.png
+2025-07-19 23:25:50,650 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:25:50,652 - app.main - INFO - Request processed in 34.7622 seconds
+2025-07-19 23:25:50,660 - app.api.v1.endpoints.background_removal - INFO - 📋 Available methods: ['standard', 'rembg', 'mediapipe', 'ensemble']
+2025-07-19 23:25:50,661 - app.main - INFO - Request processed in 0.0007 seconds
+2025-07-19 23:25:50,665 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:25:50,665 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, method=standard, quality=high, enhance=True, cache=False
+2025-07-19 23:25:50,665 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:26:20,941 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 23:26:20,950 - app.services.background_removal_service - INFO - 🔄 Using standard rembg method with birefnet-general
+2025-07-19 23:26:20,950 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 23:26:22,368 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU)
+2025-07-19 23:26:22,369 - app.services.background_removal_service - INFO - ✅ Background removal completed in 1.42s using standard
+2025-07-19 23:26:22,369 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:26:22,723 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_f252048f.png
+2025-07-19 23:26:27,850 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_f252048f.png
+2025-07-19 23:26:27,851 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_f252048f.png
+2025-07-19 23:26:27,851 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:26:27,853 - app.main - INFO - Request processed in 37.1887 seconds
+2025-07-19 23:26:27,863 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:26:27,863 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, method=rembg, quality=high, enhance=True, cache=False
+2025-07-19 23:26:27,863 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:26:58,123 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 23:26:58,132 - app.services.background_removal_service - WARNING - ⚠️ Method rembg not available, falling back to standard
+2025-07-19 23:26:58,133 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 23:26:59,456 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU)
+2025-07-19 23:26:59,458 - app.services.background_removal_service - INFO - ✅ Background removal completed in 1.33s using rembg
+2025-07-19 23:26:59,458 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:26:59,810 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_d2a35286.png
+2025-07-19 23:27:04,087 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_d2a35286.png
+2025-07-19 23:27:04,087 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_d2a35286.png
+2025-07-19 23:27:04,088 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:27:04,089 - app.main - INFO - Request processed in 36.2277 seconds
+2025-07-19 23:27:04,101 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:27:04,102 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, method=mediapipe, quality=high, enhance=True, cache=False
+2025-07-19 23:27:04,102 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400
+2025-07-19 23:27:04,383 - app.services.background_removal_service - INFO - ✅ Downloaded image: (400, 600) pixels, 32724 bytes
+2025-07-19 23:27:04,391 - app.services.background_removal_service - INFO - 🎯 Using mediapipe method with quality level: high
+2025-07-19 23:27:04,407 - app.services.advanced_background_removal - ERROR - ❌ Error applying mask: images do not match
+2025-07-19 23:27:04,407 - app.services.advanced_background_removal - INFO - ✅ Advanced background removal completed in 0.02s using mediapipe
+2025-07-19 23:27:04,407 - app.services.background_removal_service - INFO - ✅ Background removal completed in 0.02s using mediapipe
+2025-07-19 23:27:04,407 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:27:04,968 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_bff76b6b.png
+2025-07-19 23:27:06,759 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_bff76b6b.png
+2025-07-19 23:27:06,760 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_bff76b6b.png
+2025-07-19 23:27:06,760 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:27:06,760 - app.main - INFO - Request processed in 2.6596 seconds
+2025-07-19 23:27:25,569 - app.main - INFO - Request processed in 0.0014 seconds
+2025-07-19 23:27:26,613 - app.main - INFO - Request processed in 0.0220 seconds
+2025-07-19 23:28:49,809 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://cdn.shopify.com/s/files/1/0570/7389/3509/t/1/assets/03-04-2025-034240-badforncar_photo1.png
+2025-07-19 23:28:49,810 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=birefnet-general, method=advanced, quality=high, enhance=True, cache=True
+2025-07-19 23:28:49,811 - app.api.v1.endpoints.background_removal - WARNING - ⚠️ Invalid method advanced, using standard
+2025-07-19 23:28:49,812 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://cdn.shopify.com/s/files/1/0570/7389/3509/t/1/assets/03-04-2025-034240-badforncar_photo1.png
+2025-07-19 23:28:50,050 - app.services.background_removal_service - INFO - ✅ Downloaded image: (750, 750) pixels, 104132 bytes
+2025-07-19 23:28:50,069 - app.services.background_removal_service - INFO - 🔄 Using standard rembg method with birefnet-general
+2025-07-19 23:28:50,069 - app.services.background_removal_service - INFO - 🔄 Removing background using birefnet-general (GPU accelerated)...
+2025-07-19 23:28:51,350 - app.services.background_removal_service - INFO - ✅ Background removed successfully using birefnet-general (GPU)
+2025-07-19 23:28:51,351 - app.services.background_removal_service - INFO - ✅ Background removal completed in 1.30s using standard
+2025-07-19 23:28:51,456 - app.services.background_removal_service - INFO - 💾 Cached result for 661dc7d998c00071d244e638f0bb6848
+2025-07-19 23:28:51,456 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:28:51,961 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_8924daf8.png
+2025-07-19 23:28:57,091 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_8924daf8.png
+2025-07-19 23:28:57,091 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_8924daf8.png
+2025-07-19 23:28:57,092 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:28:57,094 - app.main - INFO - Request processed in 7.2897 seconds
+2025-07-19 23:30:04,364 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://cdn.shopify.com/s/files/1/0570/7389/3509/t/1/assets/03-04-2025-034240-badforncar_photo1.png
+2025-07-19 23:30:04,368 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=, method=mediapipe, quality=high, enhance=True, cache=False
+2025-07-19 23:30:04,368 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://cdn.shopify.com/s/files/1/0570/7389/3509/t/1/assets/03-04-2025-034240-badforncar_photo1.png
+2025-07-19 23:30:04,616 - app.services.background_removal_service - INFO - ✅ Downloaded image: (750, 750) pixels, 104132 bytes
+2025-07-19 23:30:04,632 - app.services.background_removal_service - INFO - 🎯 Using mediapipe method with quality level: high
+2025-07-19 23:30:04,659 - app.services.advanced_background_removal - INFO - ✅ Advanced background removal completed in 0.03s using mediapipe
+2025-07-19 23:30:04,659 - app.services.background_removal_service - INFO - ✅ Background removal completed in 0.04s using mediapipe
+2025-07-19 23:30:04,659 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:30:05,301 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_31d0484c.png
+2025-07-19 23:30:11,254 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_31d0484c.png
+2025-07-19 23:30:11,255 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_31d0484c.png
+2025-07-19 23:30:11,255 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:30:11,256 - app.main - INFO - Request processed in 6.8940 seconds
+2025-07-19 23:30:48,360 - app.api.v1.endpoints.background_removal - INFO - 🔄 Processing background removal for: https://cdn.shopify.com/s/files/1/0570/7389/3509/t/1/assets/03-04-2025-034240-badforncar_photo1.png
+2025-07-19 23:30:48,362 - app.api.v1.endpoints.background_removal - INFO - 📋 Settings: model=, method=ensemble, quality=high, enhance=True, cache=False
+2025-07-19 23:30:48,362 - app.services.background_removal_service - INFO - 📥 Downloading image from: https://cdn.shopify.com/s/files/1/0570/7389/3509/t/1/assets/03-04-2025-034240-badforncar_photo1.png
+2025-07-19 23:30:48,634 - app.services.background_removal_service - INFO - ✅ Downloaded image: (750, 750) pixels, 104132 bytes
+2025-07-19 23:30:48,654 - app.services.background_removal_service - INFO - 🎯 Using ensemble method with quality level: high
+2025-07-19 23:30:49,593 - app.services.background_removal_service - INFO - ✅ Background removal completed in 0.96s using ensemble
+2025-07-19 23:30:49,593 - app.services.background_removal_service - INFO - 📤 Uploading processed image to S3...
+2025-07-19 23:30:49,755 - app.services.s3_service - INFO - 📤 Uploading image to S3: background-removed/image_5c7efed3.png
+2025-07-19 23:30:54,548 - app.services.s3_service - INFO - ✅ Image uploaded successfully to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_5c7efed3.png
+2025-07-19 23:30:54,549 - app.services.background_removal_service - INFO - ✅ Image uploaded to S3: https://sparkiq-image-upload.s3.us-east-1.amazonaws.com/background-removed/image_5c7efed3.png
+2025-07-19 23:30:54,549 - app.api.v1.endpoints.background_removal - INFO - ✅ Background removal completed successfully
+2025-07-19 23:30:54,550 - app.main - INFO - Request processed in 6.1942 seconds
+2025-07-19 23:35:06,731 - app.main - INFO - 🛑 Shutting down SparkIQ AI Image Enhancement API...
