@@ -12,3 +12,6 @@ yolov8x-seg.pt
 # Model directories
 models/
 cache/
+*.pth
+sam_vit_h_4b8939.pth
+models/
